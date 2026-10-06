@@ -1,5 +1,5 @@
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mayank%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=20" alt="header" />
+<img width="100%" src="./header.svg" alt="Mayank Sharma - AI and Full-Stack Developer" />
 
 <!-- Typing animation: edit the lines= values to change what is typed -->
 <p align="center">
@@ -66,10 +66,6 @@ class Mayank:
   <img src="https://streak-stats.demolab.com/?user=CmdMayank&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CmdMayank&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
-</p>
-
 ## 🏆 Trophies
 
 <p align="center">
@@ -86,4 +82,4 @@ class Mayank:
 </p>
 
 <!-- Animated footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+<img width="100%" src="./footer.svg" alt="footer" />
