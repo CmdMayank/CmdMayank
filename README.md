@@ -1,21 +1,89 @@
-# 💫 About Me:
-<h3 align="center"><br>Hi 👋, I'm Mayank Sharma<br></h3><br><br><p align="center"><br>AI & Full-Stack Developer from India 🇮🇳<br><br>Building intelligent applications that solve real-world problems.<br></p>
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mayank%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=20" alt="header" />
 
+<!-- Typing animation: edit the lines= values to change what is typed -->
+<p align="center">
+  <a href="https://github.com/CmdMayank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+intelligent+apps+that+solve+real+problems;Turning+ideas+into+AI-powered+products;Full-stack+by+day%2C+model-tinkerer+by+night;Currently+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aka.mayankkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharmamayankk) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CmdMayank&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CmdMayank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CmdMayank&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CmdMayank&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://linkedin.com/in/sharmamayankk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/aka.mayankkk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CmdMayank&label=Profile%20views&color=00b8d4&style=for-the-badge" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=CmdMayank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```python
+class Mayank:
+    role      = "AI & Full-Stack Developer"
+    location  = "India 🇮🇳"
+    focus     = ["LLM apps", "Web platforms", "Cloud deployment"]
+    languages = ["Python", "C++", "Java", "C"]
+    fuel      = "chai ☕ + curiosity"
+
+    def current_mission(self):
+        return "Building intelligent applications that solve real-world problems."
+```
+
+## 🔭 What I'm Up To
+
+| | |
+|---|---|
+| 🔨 **Building** | _your current project here_ |
+| 📚 **Learning** | _agents, RAG, fine-tuning, system design_ |
+| 🤝 **Open to** | collaborations, internships, open-source |
+| 💬 **Ask me about** | Python, AI/ML, full-stack, cloud deploys |
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,ts,react,nodejs,fastapi,pytorch,docker,git,gcp,azure,cloudflare,vercel,netlify&perline=8" alt="tech stack" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CmdMayank/CmdMayank/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CmdMayank/CmdMayank/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/CmdMayank/CmdMayank/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CmdMayank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CmdMayank&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CmdMayank&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CmdMayank&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CmdMayank&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+## 💡 Dev Quote &amp; Joke (new on every refresh)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+</p>
+
+<!-- Animated footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
