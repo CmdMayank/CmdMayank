@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" preserveAspectRatio="none" role="img" aria-label="footer wave">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.5" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="#00e5ff" fill-opacity="0.25" d="M0,50 C150,10 350,90 500,50 C650,10 850,90 1000,50 L1000,110 L0,110 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,50 C150,10 350,90 500,50 C650,10 850,90 1000,50 L1000,110 L0,110 Z;
+              M0,50 C150,90 350,10 500,50 C650,90 850,10 1000,50 L1000,110 L0,110 Z;
+              M0,50 C150,10 350,90 500,50 C650,10 850,90 1000,50 L1000,110 L0,110 Z"/>
+  </path>
+  <path fill="#b388ff" fill-opacity="0.30" d="M0,65 C200,35 300,95 500,65 C700,35 800,95 1000,65 L1000,110 L0,110 Z">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,65 C200,35 300,95 500,65 C700,35 800,95 1000,65 L1000,110 L0,110 Z;
+              M0,65 C200,95 300,35 500,65 C700,95 800,35 1000,65 L1000,110 L0,110 Z;
+              M0,65 C200,35 300,95 500,65 C700,35 800,95 1000,65 L1000,110 L0,110 Z"/>
+  </path>
+  <path fill="url(#g)" d="M0,80 C250,55 250,100 500,80 C750,55 750,100 1000,80 L1000,110 L0,110 Z"/>
+</svg>
