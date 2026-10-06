@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Mayank Sharma - AI and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#1b1450;#0f0c29" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.55" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#0b3a4a;#24243e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#b388ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
+
+  <!-- floating glow orbs -->
+  <circle cx="120" cy="190" r="46" fill="#00e5ff" opacity="0.10">
+    <animate attributeName="cy" values="190;150;190" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="880" cy="70" r="60" fill="#b388ff" opacity="0.12">
+    <animate attributeName="cy" values="70;110;70" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="205" r="28" fill="#00e5ff" opacity="0.10">
+    <animate attributeName="cx" values="700;760;700" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="40" r="20" fill="#b388ff" opacity="0.14">
+    <animate attributeName="cx" values="300;350;300" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- code-ish decoration -->
+  <g font-family="'Courier New', monospace" font-size="16" fill="#ffffff" opacity="0.18">
+    <text x="30" y="40">&lt;/&gt;</text>
+    <text x="930" y="215">{ }</text>
+    <text x="60" y="215">01101</text>
+  </g>
+
+  <!-- name -->
+  <text x="500" y="112" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="url(#name)" opacity="0">
+    Mayank Sharma
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- subtitle with blinking cursor -->
+  <text x="500" y="165" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#e6e6ff" opacity="0">
+    &gt; AI &amp; Full-Stack Developer<tspan fill="#00e5ff">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="1s" fill="freeze"/>
+  </text>
+
+  <text x="500" y="200" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#b9b9d9" opacity="0">
+    Building intelligent applications that solve real-world problems
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="1s" fill="freeze"/>
+  </text>
+</svg>
